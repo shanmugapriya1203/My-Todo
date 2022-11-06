@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(240, 200, 240);
+}
+
+form{
+    background-color: rgb(218, 211, 211);
+    width: 40%;
+    height: 500px;
+    margin: 50px auto;
+    padding: 50px;
+    box-sizing: border-box;
+    font-size: 30px;
+}
+form h1{
+    text-align: center;
+}
+ #todo-input{
+    box-sizing: border-box;
+    width: 70%;
+    height: 35px;
+    padding-left: 25px;
+    
+}
+#add-item{
+    height: 28px;
+    width: 25%;
+    background-color: rgb(224, 188, 188);
+    color: white;
+    border-style: none;
+
+}
+#add-item:hover{
+    background-color: rgb(54, 43, 25);
+}
+ul {
+    list-style: none;
+    list-style-position: outside;
+    margin: 0;
+    padding: 25px 0;
+}
+li{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 10px;
+    font-size: 30px;
+}
+.delete-item{
+    background-color: rgb(207, 207, 186);
+    border-radius: 5px;
+    border:none;
+    font-size: x-large;
+    color: black;
+    width: 80px;
+    text-align: center;
+}
+
+.delete-item:hover{
+    background-color: rgb(143, 140, 132);
+    width: 80px;
+}
