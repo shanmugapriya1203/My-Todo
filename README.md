@@ -1,4 +1,5 @@
-<img width="960" alt="2022-11-06" src="https://user-images.githubusercontent.com/110707278/200154504-5a1fef0b-4bae-4047-9230-7f0b3843d62c.png">
+<img width="622" alt="2022-11-06" src="https://user-images.githubusercontent.com/110707278/200154547-83618d65-6331-4ca1-836e-bf31c42a9617.png">
+
 # My-Todo
 Simple todo list 
 Todo List Project
